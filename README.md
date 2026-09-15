@@ -47,13 +47,11 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
       <a href="https://github.com/alejandrobarreche/cancer-prediction">
         <img src="assets/cards/cancer-prediction.svg" alt="cancer-prediction" />
       </a>
-      <br/><sub>Azure SQL → ETL → leakage-aware EDA → ML baselines + Keras MLP → FastAPI dashboard</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/alejandrobarreche/saleshealth-data-warehouse">
         <img src="assets/cards/saleshealth-data-warehouse.svg" alt="saleshealth-data-warehouse" />
       </a>
-      <br/><sub>PostgreSQL star schema → CLTV → PCA + KMeans segmentation → Flask dashboard</sub>
     </td>
   </tr>
   <tr>
@@ -61,13 +59,11 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
       <a href="https://github.com/alejandrobarreche/dealership-churn-retention">
         <img src="assets/cards/dealership-churn-retention.svg" alt="dealership-churn-retention" />
       </a>
-      <br/><sub>Churn prediction with XGBoost, CLTV over ten services, costed retention plan with ROI</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/alejandrobarreche/marketing-mix-model">
         <img src="assets/cards/marketing-mix-model.svg" alt="marketing-mix-model" />
       </a>
-      <br/><sub>Adstock + saturation, non-negative ElasticNet, placebo test, budget scenarios</sub>
     </td>
   </tr>
   <tr>
@@ -87,10 +83,6 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
 ## Activity
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alejandrobarreche&theme=transparent&hide_border=true" alt="streak" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandrobarreche/alejandrobarreche/output/github-snake-dark.svg" />
