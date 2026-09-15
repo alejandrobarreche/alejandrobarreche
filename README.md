@@ -8,7 +8,7 @@
 
 <br/>
 
-Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid). I build end-to-end data projects: SQL and ETL first, then models with a strict evaluation protocol, then an app or dashboard on top, with tests and CI so it stays reproducible.
+Double Major in Mathematical Engineering & Computer Science student at **Universidad Alfonso X el Sabio** (Madrid).
 
 <br/>
 
@@ -75,8 +75,6 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
     </td>
   </tr>
 </table>
-
-<sub>All datasets are synthetic or course-provided; each README states its limitations.</sub>
 
 </div>
 
