@@ -8,7 +8,7 @@
 
 <br/>
 
-Double Major in Mathematical Engineering & Computer Science student at **Universidad Alfonso X el Sabio** (Madrid).
+Double Major in Mathematical Engineering & Computer Science at **Universidad Alfonso X el Sabio** (Madrid).
 
 <br/>
 
