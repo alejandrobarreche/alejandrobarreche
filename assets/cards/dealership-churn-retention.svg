@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="150" viewBox="0 0 470 150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <rect x="0.5" y="0.5" width="469" height="149" rx="10" fill="#8b949e" fill-opacity="0.07" stroke="#8b949e" stroke-opacity="0.45"/>
+  <rect x="0.5" y="0.5" width="4" height="149" rx="2" fill="#2563EB"/>
+  <text x="16" y="34" font-size="18" font-weight="700" fill="#2563EB">Dealership churn & retention</text>
+  <text x="454" y="34" text-anchor="end" font-size="12" fill="#8b949e">dealership-churn-retention</text>
+  <text x="16" y="64" font-size="12.5" fill="#8b949e">Churn prediction with XGBoost (recall 0.76 at the tuned threshold),</text>
+  <text x="16" y="84" font-size="12.5" fill="#8b949e">CLTV over ten services and a costed retention plan with ROI.</text>
+  <rect x="16" y="108" width="64" height="22" rx="11" fill="#2563EB" fill-opacity="0.14"/><text x="48" y="123" text-anchor="middle" font-size="11" font-weight="600" fill="#2563EB">XGBoost</text><rect x="88.19999999999999" y="108" width="97" height="22" rx="11" fill="#2563EB" fill-opacity="0.14"/><text x="137" y="123" text-anchor="middle" font-size="11" font-weight="600" fill="#2563EB">scikit-learn</text><rect x="193.39999999999998" y="108" width="77" height="22" rx="11" fill="#2563EB" fill-opacity="0.14"/><text x="232" y="123" text-anchor="middle" font-size="11" font-weight="600" fill="#2563EB">Streamlit</text>
+</svg>

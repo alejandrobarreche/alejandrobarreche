@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="150" viewBox="0 0 470 150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <rect x="0.5" y="0.5" width="469" height="149" rx="10" fill="#8b949e" fill-opacity="0.07" stroke="#8b949e" stroke-opacity="0.45"/>
+  <rect x="0.5" y="0.5" width="4" height="149" rx="2" fill="#2563EB"/>
+  <text x="16" y="34" font-size="18" font-weight="700" fill="#2563EB">Marketing Mix Model</text>
+  <text x="454" y="34" text-anchor="end" font-size="12" fill="#8b949e">marketing-mix-model</text>
+  <text x="16" y="64" font-size="12.5" fill="#8b949e">Adstock + saturation transforms, non-negative ElasticNet, placebo test,</text>
+  <text x="16" y="84" font-size="12.5" fill="#8b949e">ROI per channel block and budget scenarios with bootstrap intervals.</text>
+  <rect x="16" y="108" width="97" height="22" rx="11" fill="#2563EB" fill-opacity="0.14"/><text x="65" y="123" text-anchor="middle" font-size="11" font-weight="600" fill="#2563EB">scikit-learn</text><rect x="121.19999999999999" y="108" width="58" height="22" rx="11" fill="#2563EB" fill-opacity="0.14"/><text x="150" y="123" text-anchor="middle" font-size="11" font-weight="600" fill="#2563EB">pandas</text><rect x="186.79999999999998" y="108" width="77" height="22" rx="11" fill="#2563EB" fill-opacity="0.14"/><text x="226" y="123" text-anchor="middle" font-size="11" font-weight="600" fill="#2563EB">Streamlit</text>
+</svg>

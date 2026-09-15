@@ -45,13 +45,13 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/alejandrobarreche/cancer-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrobarreche&repo=cancer-prediction&theme=transparent&hide_border=true" alt="cancer-prediction" />
+        <img src="assets/cards/cancer-prediction.svg" alt="cancer-prediction" />
       </a>
       <br/><sub>Azure SQL → ETL → leakage-aware EDA → ML baselines + Keras MLP → FastAPI dashboard</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/alejandrobarreche/saleshealth-data-warehouse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrobarreche&repo=saleshealth-data-warehouse&theme=transparent&hide_border=true" alt="saleshealth-data-warehouse" />
+        <img src="assets/cards/saleshealth-data-warehouse.svg" alt="saleshealth-data-warehouse" />
       </a>
       <br/><sub>PostgreSQL star schema → CLTV → PCA + KMeans segmentation → Flask dashboard</sub>
     </td>
@@ -59,13 +59,13 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/alejandrobarreche/dealership-churn-retention">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrobarreche&repo=dealership-churn-retention&theme=transparent&hide_border=true" alt="dealership-churn-retention" />
+        <img src="assets/cards/dealership-churn-retention.svg" alt="dealership-churn-retention" />
       </a>
       <br/><sub>Churn prediction with XGBoost, CLTV over ten services, costed retention plan with ROI</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/alejandrobarreche/marketing-mix-model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrobarreche&repo=marketing-mix-model&theme=transparent&hide_border=true" alt="marketing-mix-model" />
+        <img src="assets/cards/marketing-mix-model.svg" alt="marketing-mix-model" />
       </a>
       <br/><sub>Adstock + saturation, non-negative ElasticNet, placebo test, budget scenarios</sub>
     </td>
@@ -73,7 +73,7 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
   <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/alejandrobarreche/equidad40-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejandrobarreche&repo=equidad40-dashboard&theme=transparent&hide_border=true" alt="equidad40-dashboard" />
+        <img src="assets/cards/equidad40-dashboard.svg" alt="equidad40-dashboard" />
       </a>
       <br/><sub>React + Vite dashboard for a therapeutic-equity index · <a href="https://alejandrobarreche.github.io/equidad40-dashboard/">live demo</a></sub>
     </td>
@@ -84,14 +84,9 @@ Mathematical Engineering student at **Universidad Alfonso X el Sabio** (Madrid).
 
 </div>
 
-## Stats
+## Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alejandrobarreche&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrobarreche&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="languages" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=alejandrobarreche&theme=transparent&hide_border=true" alt="streak" />
 
